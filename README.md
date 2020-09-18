@@ -19,5 +19,8 @@ mkdir privada
 ####Hacemos que el gitignore ignore la carpeta y el archivo
 echo "privado.txt" > .gitignore
 echo "privada" > .gitignore
+######Añadimos los cambios y hacemos un commit
+git add .
+git commit -m "añadido el fichero .gitignore"
 
 
