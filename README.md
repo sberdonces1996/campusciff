@@ -1,4 +1,4 @@
----
+
 # COMANDOS UTILIZADOS EN LA PRÁCTICA BÁSICA
 
 
@@ -47,7 +47,7 @@
 
 
 
----
+
 # COMANDOS UTILIZADOS EN LA PRÁCTICA AVANZADA
 
 #### Creamos una rama y nos posicionamos en ella
